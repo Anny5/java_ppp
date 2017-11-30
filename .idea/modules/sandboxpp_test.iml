@@ -6,11 +6,12 @@
     <content url="file://$MODULE_DIR$/../../sandboxpp/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../sandboxpp/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../sandboxpp/src/test/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../sandboxpp/src/test" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="sandboxpp_main" />
+    <orderEntry type="library" name="Gradle: org.testng:testng:6.13.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.72" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="sandboxpp_main" />
 </module>
